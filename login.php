@@ -1,7 +1,7 @@
 <?php
 /********************************
 * Project: Website Status Checker
-* Code Version: 1.0
+* Code Version: 1.5
 * Author: Benjamin Sommer
 * GitHub: https://github.com/remmosnimajneb
 * Theme Design by: Pixelarity [Pixelarity.com] - Theme `Transit`
@@ -50,7 +50,7 @@ if(isset($_POST['username']) && isset($_POST['password'])){
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo"><strong><?php echo $web_title ?></strong></a>
+						<a href="index.php" class="logo"><strong><?php echo $web_title ?></strong></a>
 					</header>
 
 				<!-- Section -->
